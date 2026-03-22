@@ -1,2 +1,2 @@
 # Domino
-Jogo de dominó feito em C
+Jogo de dominó por linha de comando feito em C
